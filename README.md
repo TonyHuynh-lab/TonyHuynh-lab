@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on Sales Predictor<br>🌱 I’m currently learning Web Technologies<br>💬 Ask me about anything!<br>⚡ Fun fact I love rock climbing and weight lifting!
+ 🔭 I’m currently working on Spotify Recommender App<br>🌱 I’m currently learning Web Technologies<br>💬 Ask me about anything!<br>⚡ Fun fact I love rock climbing and weight lifting!
 
 
 ## 🌐 Socials:
